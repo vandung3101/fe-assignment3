@@ -5,6 +5,7 @@
 export const environment = {
   production: false,
   beURL: 'http:// 20.198.129.28:3000'
+  
 };
 
 /*
